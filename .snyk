@@ -8,3 +8,21 @@ patch:
         patched: '2019-10-16T04:34:32.222Z'
     - winston > async > lodash:
         patched: '2019-10-16T04:34:32.222Z'
+    - snyk > @snyk/dep-graph > lodash:
+        patched: '2019-10-16T04:38:00.339Z'
+    - snyk > snyk-go-plugin > graphlib > lodash:
+        patched: '2019-10-16T04:38:00.339Z'
+    - snyk > snyk-nodejs-lockfile-parser > graphlib > lodash:
+        patched: '2019-10-16T04:38:00.339Z'
+    - snyk > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-10-16T04:38:00.339Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/dep-graph > lodash:
+        patched: '2019-10-16T04:38:00.339Z'
+    - snyk > snyk-nuget-plugin > dotnet-deps-parser > lodash:
+        patched: '2019-10-16T04:38:00.339Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-10-16T04:38:00.339Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/dep-graph > lodash:
+        patched: '2019-10-16T04:38:00.339Z'
+    - snyk > @snyk/snyk-cocoapods-plugin > @snyk/cocoapods-lockfile-parser > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-10-16T04:38:00.339Z'
