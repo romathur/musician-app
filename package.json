@@ -17,7 +17,7 @@
     "express": "^4.16.4",
     "winston": "^3.2.1",
     "yup": "^0.26.10",
-    "snyk": "^1.235.0"
+    "snyk": "^1.258.2"
   },
   "devDependencies": {
     "jest": "^24.7.1",
