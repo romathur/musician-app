@@ -13,8 +13,8 @@
   "author": "Jonathan Spruance",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.3",
-    "express": "^4.16.4",
+    "body-parser": "^1.19.2",
+    "express": "^4.17.3",
     "winston": "^3.2.1",
     "yup": "^0.26.10",
     "snyk": "^1.235.0"
