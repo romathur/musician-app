@@ -15,8 +15,8 @@
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
-    "winston": "^3.2.1",
-    "yup": "^0.26.10",
+    "winston": "^3.3.4",
+    "yup": "^0.32.10",
     "snyk": "^1.235.0"
   },
   "devDependencies": {
